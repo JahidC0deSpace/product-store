@@ -1,7 +1,7 @@
 # 🛒 Product Store – MERN CRUD Application
 
 **Product Store** is a full-stack **MERN** application that allows users to **add, update, and delete products** with a **name, price, and image**.  
-The project demonstrates a clean **CRUD workflow**, RESTful API design, and modern frontend state management with a scalable structure.
+The project demonstrates a clean **CRUD workflow**, RESTful API design, and modern frontend state management with a scalable structure..
 
 ---
 
